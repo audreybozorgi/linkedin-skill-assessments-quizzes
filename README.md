@@ -1,4 +1,5 @@
 ## Linkedin Skill assessments - Answers
+## Dont use this to cheet. Use this for skill up
 
 <a id="top-page"></a>
 [![Owner](https://img.shields.io/badge/owner-ebazhanov-blue)](https://github.com/Ebazhanov)
